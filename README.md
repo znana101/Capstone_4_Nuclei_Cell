@@ -14,7 +14,7 @@ This project provides a deep learning model for automated cell nuclei segmentati
 ![accuracy_graph](https://github.com/user-attachments/assets/4394d7a4-8fc0-47ec-93cf-c65d1d7e5fc6)
 ### Loss Graph
 ![loss_graph](https://github.com/user-attachments/assets/8b8ea746-1bcd-4a07-bc2d-32b29df3ea07)
-## Discussion
+
 
 ## Credits
 Kaggle - https://www.kaggle.com/competitions/data-science-bowl-2018/overview
