@@ -14,7 +14,13 @@ This project provides a deep learning model for automated cell nuclei segmentati
 ![accuracy_graph](https://github.com/user-attachments/assets/4394d7a4-8fc0-47ec-93cf-c65d1d7e5fc6)
 ### Loss Graph
 ![loss_graph](https://github.com/user-attachments/assets/8b8ea746-1bcd-4a07-bc2d-32b29df3ea07)
+## Discussion
+1. Automated nuclei detection accelerates medical research by enabling large-scale analysis of cellular structures, critical for disease understanding and drug discovery.  
+2. The U-Net model ensures accurate segmentation across various imaging conditions and cell types.  
+3. High overlap between predicted and ground truth masks demonstrates the model's reliability, with minor discrepancies indicating opportunities for optimization.  
+4. The model achieved a loss of 0.0941 and an accuracy of 93.9%.
 
+Conclusion: The model is able to perform image masking for the cell as the accuracy achieved is higher than 90%.
 
 ## Credits
 Kaggle - https://www.kaggle.com/competitions/data-science-bowl-2018/overview
